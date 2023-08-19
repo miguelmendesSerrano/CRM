@@ -1,7 +1,7 @@
 
 # CRM
 Projeto desenvolvido em conjunto com o galera da [DIO](https://web.dio.me/), excelente plataforma de ensino
-com conteúdos de qualidade e experts com ampla experiência, neste projeto em específico contei com o apoio do tech lead [Rafael Galleani](https://github.com/rafega).
+com conteúdos de qualidade e experts com ampla experiência, neste projeto em específico contei com o apoio do tech lead [Rafael Galleani](https://github.com/rafegal).
 
 O projeto trata-se do desenvolvimento de um [CRUD](https://developer.mozilla.org/pt-BR/docs/Glossary/CRUD) de Clientes, um CRM (Customer Relationship Management),ou gestão de relacionamento com o cliente. 
 
